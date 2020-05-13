@@ -23,6 +23,5 @@ class ViewController: UIViewController {
         //使用陣列.randomElement()來隨機取樣
         diceImageView1.image = diceArray.randomElement()
         diceImageView2.image = diceArray.randomElement()
-
     }        
 }
